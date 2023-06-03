@@ -37,6 +37,7 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   <div align="center">
+  <img height="300" alt="My Tech Stacks" src="IMGtechstacks.png" />
 </div>
 <br>
 <br>
